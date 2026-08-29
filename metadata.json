@@ -1,0 +1,6 @@
+{
+  "name": "A Fogueira: Sobrevivência na Escuridão",
+  "description": "Jogo de sobrevivência pixel art sombrio. Colete madeira na escuridão para alimentar a fogueira central, gerencie o tempo da sua tocha e combata as sombras antes que a luz se apague.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
